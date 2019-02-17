@@ -1,0 +1,14 @@
+E:\7 Semester\Dot net\lab\dotnet lab start\lab 1\ApexRestaurant.Api\bin\Debug\netcoreapp2.1\ApexRestaurant.Api.deps.json
+E:\7 Semester\Dot net\lab\dotnet lab start\lab 1\ApexRestaurant.Api\bin\Debug\netcoreapp2.1\ApexRestaurant.Api.runtimeconfig.json
+E:\7 Semester\Dot net\lab\dotnet lab start\lab 1\ApexRestaurant.Api\bin\Debug\netcoreapp2.1\ApexRestaurant.Api.runtimeconfig.dev.json
+E:\7 Semester\Dot net\lab\dotnet lab start\lab 1\ApexRestaurant.Api\bin\Debug\netcoreapp2.1\ApexRestaurant.Api.dll
+E:\7 Semester\Dot net\lab\dotnet lab start\lab 1\ApexRestaurant.Api\bin\Debug\netcoreapp2.1\ApexRestaurant.Api.pdb
+E:\7 Semester\Dot net\lab\dotnet lab start\lab 1\ApexRestaurant.Api\obj\Debug\netcoreapp2.1\ApexRestaurant.Api.csprojAssemblyReference.cache
+E:\7 Semester\Dot net\lab\dotnet lab start\lab 1\ApexRestaurant.Api\obj\Debug\netcoreapp2.1\ApexRestaurant.Api.csproj.CoreCompileInputs.cache
+E:\7 Semester\Dot net\lab\dotnet lab start\lab 1\ApexRestaurant.Api\obj\Debug\netcoreapp2.1\ApexRestaurant.Api.RazorAssemblyInfo.cache
+E:\7 Semester\Dot net\lab\dotnet lab start\lab 1\ApexRestaurant.Api\obj\Debug\netcoreapp2.1\ApexRestaurant.Api.RazorAssemblyInfo.cs
+E:\7 Semester\Dot net\lab\dotnet lab start\lab 1\ApexRestaurant.Api\obj\Debug\netcoreapp2.1\ApexRestaurant.Api.AssemblyInfoInputs.cache
+E:\7 Semester\Dot net\lab\dotnet lab start\lab 1\ApexRestaurant.Api\obj\Debug\netcoreapp2.1\ApexRestaurant.Api.AssemblyInfo.cs
+E:\7 Semester\Dot net\lab\dotnet lab start\lab 1\ApexRestaurant.Api\obj\Debug\netcoreapp2.1\ApexRestaurant.Api.RazorTargetAssemblyInfo.cache
+E:\7 Semester\Dot net\lab\dotnet lab start\lab 1\ApexRestaurant.Api\obj\Debug\netcoreapp2.1\ApexRestaurant.Api.dll
+E:\7 Semester\Dot net\lab\dotnet lab start\lab 1\ApexRestaurant.Api\obj\Debug\netcoreapp2.1\ApexRestaurant.Api.pdb
